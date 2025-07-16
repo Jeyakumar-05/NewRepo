@@ -1,4 +1,4 @@
-// Common types used across the application
+// Common types used across the applications
 
 export interface User {
   id: string
