@@ -3,7 +3,7 @@ import Layout from './components/layout/Layout'
 import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage'
 import NotFoundPage from './pages/NotFoundPage'
-//changess
+//local changes in the remote
 function App() {
   return (
     <Routes>
